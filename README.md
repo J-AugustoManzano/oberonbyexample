@@ -4,7 +4,7 @@ O [Oberon](https://en.wikipedia.org/wiki/Oberon_(programming_language)) é uma l
 
 O [Oberon-2](https://en.wikipedia.org/wiki/Oberon-2) é uma extensão da linguagem de programação Oberon original, desenvolvida em 1991 na ETH Zurich por Niklaus Wirth e Hanspeter Mössenböck. Essa versão adiciona algumas funcionalidades importantes que expandem a capacidade da linguagem original.
 
-Oberon Por Exemplos é uma introdução prática ao Oberon-2 usando exemplos.
+Oberon por Exemplos, é uma introdução prática ao Oberon-2 usando exemplos.
 
 Este repositório está passando por modificações intensas para torná-lo melhor para iniciantes.
 
