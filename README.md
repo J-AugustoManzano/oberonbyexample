@@ -2,7 +2,7 @@
 
 O [Oberon](https://en.wikipedia.org/wiki/Oberon_(programming_language)) é uma linguagem de programação de propósito geral criada em 1986 por Niklaus Wirth e é o membro mais recente da família Wirthiana de linguagens semelhantes ao ALGOL.
 
-[Oberon-2](https://en.wikipedia.org/wiki/Oberon-2) is an extension of the original Oberon programming language developed in 1991 at ETH Zurich by Niklaus Wirth and Hanspeter Mössenböck that adds limited reflection and object-oriented programming facilities, open arrays as pointer base types, read-only field export.
+O [Oberon-2](https://en.wikipedia.org/wiki/Oberon-2) é uma extensão da linguagem de programação Oberon original, desenvolvida em 1991 na ETH Zurich por Niklaus Wirth e Hanspeter Mössenböck. Essa versão adiciona algumas funcionalidades importantes que expandem a capacidade da linguagem original.
 
 Oberon By Example is a hands-on introduction to Oberon-2 using examples.
 
