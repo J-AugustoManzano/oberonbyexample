@@ -10,7 +10,7 @@ Este repositório está passando por modificações intensas para torná-lo melh
 
 Para começar, certifique-se de que você tem [Vishap Oberon Compiler](https://github.com/vishapoberon/voc)
 
-Confira o [hello-world](https://github.com/vishapoberon/oberonbyexample/tree/master/examples/hello-world) example or browse the full list below.
+Confira o exemplo [hello-world](https://github.com/vishapoberon/oberonbyexample/tree/master/examples/hello-world) ou navegue pela lista completa abaixo.
 
 - [Hello World](https://github.com/vishapoberon/oberonbyexample/tree/master/examples/hello-world)
 - [Types](https://github.com/vishapoberon/oberonbyexample/tree/master/examples/value-types)
