@@ -1,16 +1,16 @@
-## Oberon by Examples
+## Oberon por Exemplos
 
 O [Oberon](https://en.wikipedia.org/wiki/Oberon_(programming_language)) é uma linguagem de programação de propósito geral criada em 1986 por Niklaus Wirth e é o membro mais recente da família Wirthiana de linguagens semelhantes ao ALGOL.
 
 O [Oberon-2](https://en.wikipedia.org/wiki/Oberon-2) é uma extensão da linguagem de programação Oberon original, desenvolvida em 1991 na ETH Zurich por Niklaus Wirth e Hanspeter Mössenböck. Essa versão adiciona algumas funcionalidades importantes que expandem a capacidade da linguagem original.
 
-Oberon By Example is a hands-on introduction to Oberon-2 using examples.
+Oberon Por Exemplos é uma introdução prática ao Oberon-2 usando exemplos.
 
-This repository is under heavy modification to make it better for beginners.
+Este repositório está passando por modificações intensas para torná-lo melhor para iniciantes.
 
-To start, make sure you have [Vishap Oberon Compiler](https://github.com/vishapoberon/voc)
+Para começar, certifique-se de que você tem [Vishap Oberon Compiler](https://github.com/vishapoberon/voc)
 
-Check out the [hello-world](https://github.com/vishapoberon/oberonbyexample/tree/master/examples/hello-world) example or browse the full list below.
+Confira o [hello-world](https://github.com/vishapoberon/oberonbyexample/tree/master/examples/hello-world) example or browse the full list below.
 
 - [Hello World](https://github.com/vishapoberon/oberonbyexample/tree/master/examples/hello-world)
 - [Types](https://github.com/vishapoberon/oberonbyexample/tree/master/examples/value-types)
