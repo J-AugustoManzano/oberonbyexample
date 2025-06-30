@@ -13,16 +13,16 @@ Para começar, certifique-se de que você tem [Vishap Oberon Compiler](https://g
 Confira o exemplo [hello-world](https://github.com/vishapoberon/oberonbyexample/tree/master/examples/hello-world) ou navegue pela lista completa abaixo.
 
 - [Hello World](https://github.com/vishapoberon/oberonbyexample/tree/master/examples/hello-world)
-- [Types](https://github.com/vishapoberon/oberonbyexample/tree/master/examples/value-types)
-- [Variables](https://github.com/vishapoberon/oberonbyexample/tree/master/examples/variables)
-- [Constants](https://github.com/vishapoberon/oberonbyexample/tree/master/examples/constants)
+- [Tipos](https://github.com/vishapoberon/oberonbyexample/tree/master/examples/value-types)
+- [Variáveis](https://github.com/vishapoberon/oberonbyexample/tree/master/examples/variables)
+- [Constantes](https://github.com/vishapoberon/oberonbyexample/tree/master/examples/constants)
 - [For](https://github.com/vishapoberon/oberonbyexample/tree/master/examples/for)
 - [While](https://github.com/vishapoberon/oberonbyexample/tree/master/examples/while)
 - [If/Else](https://github.com/vishapoberon/oberonbyexample/tree/master/examples/ifelse)
 - [Case](https://github.com/vishapoberon/oberonbyexample/tree/master/examples/case)
-- [Arrays](https://github.com/vishapoberon/oberonbyexample/tree/master/examples/arrays)
-- [Procedures](https://github.com/vishapoberon/oberonbyexample/tree/master/examples/procedures)
+- [Arranjos](https://github.com/vishapoberon/oberonbyexample/tree/master/examples/arrays)
+- [Procedimentos](https://github.com/vishapoberon/oberonbyexample/tree/master/examples/procedures)
 	- [Procedure](https://github.com/vishapoberon/oberonbyexample/tree/master/examples/procedures/procedure)
 	- [Functions](https://github.com/vishapoberon/oberonbyexample/tree/master/examples/procedures/function-procedure)
-	- [VAR-Parameters](https://github.com/vishapoberon/oberonbyexample/tree/master/examples/procedures/var-parameter)
+	- [Passsgens de parâmetro](https://github.com/vishapoberon/oberonbyexample/tree/master/examples/procedures/var-parameter)
 - TODO
