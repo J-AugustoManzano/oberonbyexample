@@ -3,7 +3,7 @@ MODULE constants;
 IMPORT Out;
 
 CONST
-    s = "if it moves, compile it!";
+    s = "Se, se mexer, compile!";
     n = 42;
     m = n * 2;
 
