@@ -12,17 +12,18 @@ Para começar, certifique-se de que você tem [Vishap Oberon Compiler](https://g
 
 Confira o exemplo [hello-world](https://github.com/vishapoberon/oberonbyexample/tree/master/examples/hello-world) ou navegue pela lista completa abaixo.
 
-- [Hello World](https://github.com/vishapoberon/oberonbyexample/tree/master/examples/hello-world)
-- [Tipos](https://github.com/vishapoberon/oberonbyexample/tree/master/examples/value-types)
-- [Variáveis](https://github.com/vishapoberon/oberonbyexample/tree/master/examples/variables)
-- [Constantes](https://github.com/vishapoberon/oberonbyexample/tree/master/examples/constants)
-- [For](https://github.com/vishapoberon/oberonbyexample/tree/master/examples/for)
-- [While](https://github.com/vishapoberon/oberonbyexample/tree/master/examples/while)
-- [If/Else](https://github.com/vishapoberon/oberonbyexample/tree/master/examples/ifelse)
-- [Case](https://github.com/vishapoberon/oberonbyexample/tree/master/examples/case)
-- [Arranjos](https://github.com/vishapoberon/oberonbyexample/tree/master/examples/arrays)
-- [Procedimentos](https://github.com/vishapoberon/oberonbyexample/tree/master/examples/procedures)
-	- [Procedure](https://github.com/vishapoberon/oberonbyexample/tree/master/examples/procedures/procedure)
-	- [Functions](https://github.com/vishapoberon/oberonbyexample/tree/master/examples/procedures/function-procedure)
-	- [Passsgens de parâmetro](https://github.com/vishapoberon/oberonbyexample/tree/master/examples/procedures/var-parameter)
+- [Hello World](https://github.com/J-AugustoManzano/oberonbyexample/tree/master/examples/localizados_ptbr/hello-world)
+- [Tipos](https://github.com/J-AugustoManzano/oberonbyexample/tree/master/examples/localizados_ptbr/value-types)
+- [Variáveis](https://github.com/J-AugustoManzano/oberonbyexample/tree/master/examples/localizados_ptbr/variables)
+- [Constantes](https://github.com/J-AugustoManzano/oberonbyexample/tree/master/examples/localizados_ptbr/constants)
+- [For](https://github.com/J-AugustoManzano/oberonbyexample/tree/master/examples/localizados_ptbr/for)
+- [While](https://github.com/J-AugustoManzano/oberonbyexample/tree/master/examples/localizados_ptbr/while)
+- [If/Else](https://github.com/J-AugustoManzano/oberonbyexample/tree/master/examples/localizados_ptbr/ifelse)
+- [Case](https://github.com/J-AugustoManzano/oberonbyexample/tree/master/examples/localizados_ptbr/case)
+- [Arranjos](https://github.com/J-AugustoManzano/oberonbyexample/tree/master/examples/localizados_ptbr/arrays)
+- [Procedimentos](https://github.com/J-AugustoManzano/oberonbyexample/tree/master/examples/localizados_ptbr/procedures)
+	- [Procedure](https://github.com/J-AugustoManzano/oberonbyexample/tree/master/examples/localizados_ptbr/procedures/procedure)
+	- [Functions](https://github.com/J-AugustoManzano/oberonbyexample/tree/master/examples/localizados_ptbr/procedures/function-procedure)
+	- [Passsgens de parâmetro](https://github.com/J-AugustoManzano/oberonbyexample/tree/master/examples/localizados_ptbr/procedures/var-parameter)
+
 - TODO
