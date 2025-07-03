@@ -9,7 +9,7 @@ VAR
 
 BEGIN
    i := 0;
-   Out.String("WHILE loop started"); Out.Ln;
+   Out.String("Laco WHILE iniciado"); Out.Ln;
    WHILE i < 10 DO
            i := i + 1;
            Out.Int(i, 0); Out.Ln;
