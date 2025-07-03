@@ -6,9 +6,9 @@ IMPORT Out, Modules;
 
 BEGIN
     CASE Modules.ArgCount - 1 OF
-        0   : Out.String("There are no arguments");
-    |   1   : Out.String("There is one argument");
-    |   2   : Out.String("There are two arguments");
-    ELSE Out.String("There are more than two arguments") END;
+        0   : Out.String("Nao ha argumentos");
+    |   1   : Out.String("Ha um argumento");
+    |   2   : Out.String("Ha dois argumentos");
+    ELSE Out.String("Ha mais de dois argumentos") END;
     Out.Ln;
 END case.
