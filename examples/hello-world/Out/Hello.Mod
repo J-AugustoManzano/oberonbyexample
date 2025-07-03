@@ -5,5 +5,5 @@ IMPORT Out;
 
 
 BEGIN
-    Out.String("Hello, World"); Out.Ln
+    Out.String("Ola, Mundo"); Out.Ln
 END hello.
