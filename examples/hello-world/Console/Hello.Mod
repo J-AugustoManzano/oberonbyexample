@@ -5,6 +5,6 @@ IMPORT Console;
 
 
 BEGIN
-    Console.String("Hello World!");
+    Console.String("Ola Mundo!");
     Console.Ln
 END hello.
