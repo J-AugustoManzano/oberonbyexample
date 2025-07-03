@@ -10,7 +10,7 @@ VAR
 
 
 BEGIN
-    s := "Initial";
+    s := "Inicial";
     Out.String(s);  Out.Ln;
     i := 3.14;
     n := 64;
@@ -19,7 +19,7 @@ BEGIN
     Out.Int(n, 0);  Out.Ln;
     Out.Real(i, 0); Out.Ln;
 
-    s := "assigning new values";
+    s := "novo valor atribuido";
     Out.String(s);  Out.Ln;
     i := 2.71;
     n := 128;
