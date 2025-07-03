@@ -22,7 +22,7 @@ END getGCD;
 
 BEGIN
     IF Modules.ArgCount # 3 THEN
-        Out.String("enter two integers to get GCD"); Out.Ln;
+        Out.String("Informe dois numeros inteiros para obter o MDC (Máximo Divisor Comum)"); Out.Ln;
         HALT(1)
     END;
     Modules.GetIntArg(1, arg0); Modules.GetIntArg(2, arg1);
