@@ -16,9 +16,9 @@ END swapVals;
 
 BEGIN
     a := 6; b := 9;
-    Out.String("initial "); Out.Ln;
+    Out.String("Inicial "); Out.Ln;
     Out.String("a : "); Out.Int(a, 0); Out.String("; b : "); Out.Int(b, 0); Out.Ln;
     swapVals(a, b);
-    Out.String("after swap"); Out.Ln;
+    Out.String("Apos troca"); Out.Ln;
     Out.String("a : "); Out.Int(a, 0); Out.String("; b : "); Out.Int(b, 0); Out.Ln;
 END varparam.
