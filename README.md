@@ -1,4 +1,4 @@
-## Oberon por Exemplos
+## Oberon por Exemplos (Repositório localizado para PT-BR)
 
 O [Oberon](https://en.wikipedia.org/wiki/Oberon_(programming_language)) é uma linguagem de programação de propósito geral criada em 1986 por Niklaus Wirth e é o membro mais recente da família Wirthiana de linguagens semelhantes ao ALGOL.
 
