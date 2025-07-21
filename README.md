@@ -12,7 +12,7 @@ Para começar, certifique-se de que você tem [Vishap Oberon Compiler](https://g
 
 Confira o exemplo [hello-world](https://github.com/vishapoberon/oberonbyexample/tree/master/examples/hello-world) ou navegue pela lista completa abaixo.
 
-- [Hello World (Alô Mundo)](https://github.com/J-AugustoManzano/oberonbyexample/tree/master/examples/localizados_ptbr/hello-world)
+- [Hello World (Olá Mundo)](https://github.com/J-AugustoManzano/oberonbyexample/tree/master/examples/localizados_ptbr/hello-world)
 - [Tipos](https://github.com/J-AugustoManzano/oberonbyexample/tree/master/examples/localizados_ptbr/value-types)
 - [Variáveis](https://github.com/J-AugustoManzano/oberonbyexample/tree/master/examples/localizados_ptbr/variables)
 - [Constantes](https://github.com/J-AugustoManzano/oberonbyexample/tree/master/examples/localizados_ptbr/constants)
